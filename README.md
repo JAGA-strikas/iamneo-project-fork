@@ -10,7 +10,7 @@
 - Use drag and drop to move the cards.
 - Available containers,
     - 1️⃣ Open .
-    - 2️⃣ Contacted .
+    - 2️⃣ Contacted.
     - 3️⃣ Written test .
     - 4️⃣ Written test completed.
 - **NOTE : cards are limited to move only between neighbour columns**
